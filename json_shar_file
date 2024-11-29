@@ -1,0 +1,16 @@
+SON (JavaScript Object Notation) is a text-based format for storing and exchanging data that's both human-readable and machine-parsable: 
+What it is: A popular data format that's often used in web applications and API calls 
+How it's used: To transfer data between a server and a web application, or to configure management 
+Why it's popular: Because it's language-independent, making it easy to exchange data across different programming languages and platforms 
+How it's structured: JSON represents data in two ways: objects and arrays 
+What it's made of: JSON is built from one or more keys and values, where keys can be any string and values can be strings, numbers, arrays, additional objects, or the literals false, true, and null 
+Here are some examples of JSON in use:
+Web development
+JSON is commonly used to transmit data in web applications, such as sending data from the server to the client so it can be displayed on a web page 
+Configuration management
+JSON has seen ad hoc usage as a configuration language 
+Data storage
+Many databases have emerged to store and exchange data in JSON, including MongoDB, PostgreSQL, and MySQL 
+BigQuery
+JSON is a data format widely used in Google's BigQuery, a data storage structure that allows you to manage, analyze, and gain insight from your data 
+JSON was adopted by ECMA International, an industry association founded in 1961 to standardize information and communication systems. 
